@@ -1,0 +1,43 @@
+{
+  "user_profile": {
+    "basic_info": {
+      "hukou": "",
+      "age": 0,
+      "social_insurance_years": 0,
+      "education": "",
+      "family_type": "",
+      "phone": "",
+      "id_card": ""
+    },
+    "assets": {
+      "annual_income": 0,
+      "has_shenzhen_property": false,
+      "has_car": false,
+      "total_assets": 0
+    },
+    "preferences": {
+      "preferred_districts": [],
+      "housing_types": [],
+      "preferred_layout": "",
+      "budget_min": 0,
+      "budget_max": 0
+    },
+    "transportation": {
+      "company_address": "",
+      "company_name": "",
+      "commute_method": "开车"
+    }
+  },
+  "api_keys": {
+    "amap": "YOUR_AMAP_API_KEY_HERE"
+  },
+  "settings": {
+    "max_results": 10,
+    "notification_enabled": false,
+    "auto_search_enabled": false,
+    "search_frequency_days": 7
+  },
+  "last_search": null,
+  "search_history": [],
+  "version": "1.0.0"
+}

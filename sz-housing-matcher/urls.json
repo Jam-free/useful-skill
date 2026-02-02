@@ -1,0 +1,119 @@
+{
+  "shenzhen": {
+    "name": "深圳市住房和建设局",
+    "url": "http://zjj.sz.gov.cn",
+    "search_url": "http://zjj.sz.gov.cn/search/",
+    "policy_pages": [
+      "http://zjj.sz.gov.cn/xxgk/zcfg/",
+      "http://zjj.sz.gov.cn/xxgk/zcwj/",
+      "http://zjj.sz.gov.cn/bzfw/"
+    ],
+    "housing_types": {
+      "anjufang": "安居房",
+      "rencaifang": "人才房",
+      "gongzufang": "公租房",
+      "shimingzufang": "社会租赁住房"
+    }
+  },
+  "districts": [
+    {
+      "name": "福田区",
+      "url": "http://www.szft.gov.cn/ftjsj/",
+      "policy_page": "http://www.szft.gov.cn/ftjsj/zcwj/zcfg/"
+    },
+    {
+      "name": "罗湖区",
+      "url": "http://www.szlh.gov.cn/lhzjj/",
+      "policy_page": "http://www.szlh.gov.cn/lhzjj/zcwj/"
+    },
+    {
+      "name": "南山区",
+      "url": "http://www.szns.gov.cn/nsjsj/",
+      "policy_page": "http://www.szns.gov.cn/nsjsj/zcwj/"
+    },
+    {
+      "name": "盐田区",
+      "url": "http://www.yantian.gov.cn/ytjsj/",
+      "policy_page": "http://www.yantian.gov.cn/ytjsj/zcfg/"
+    },
+    {
+      "name": "宝安区",
+      "url": "http://www.baoan.gov.cn/bajsj/",
+      "policy_page": "http://www.baoan.gov.cn/bajsj/zcfg/"
+    },
+    {
+      "name": "龙岗区",
+      "url": "http://www.lg.gov.cn/lgjsj/",
+      "policy_page": "http://www.lg.gov.cn/lgjsj/zcwj/"
+    },
+    {
+      "name": "龙华区",
+      "url": "http://www.szlhq.gov.cn/lhzjj/",
+      "policy_page": "http://www.szlhq.gov.cn/lhzjj/zcwj/"
+    },
+    {
+      "name": "坪山区",
+      "url": "http://www.szpsq.gov.cn/psjsj/",
+      "policy_page": "http://www.szpsq.gov.cn/psjsj/zcfg/"
+    },
+    {
+      "name": "光明区",
+      "url": "http://www.szgm.gov.cn/gmjsj/",
+      "policy_page": "http://www.szgm.gov.cn/gmjsj/zcwj/"
+    },
+    {
+      "name": "大鹏新区",
+      "url": "http://www.dpxq.gov.cn/dpjsj/",
+      "policy_page": "http://www.dpxq.gov.cn/dpjsj/zcfg/"
+    },
+    {
+      "name": "深汕特别合作区",
+      "url": "http://www.szss.gov.cn/ssjsj/",
+      "policy_page": "http://www.szss.gov.cn/ssjsj/zcfg/"
+    }
+  ],
+  "useful_links": {
+    "property_proof": {
+      "name": "查询不动产登记证明",
+      "url": "https://www.szreorc.com/",
+      "description": "深圳不动产登记中心官网"
+    },
+    "social_insurance": {
+      "name": "查询社保缴纳记录",
+      "url": "https://sipub.sz.gov.cn/hsoms/",
+      "description": "深圳市社保局个人网上服务系统"
+    },
+    "tax_record": {
+      "name": "查询个人纳税记录",
+      "url": "https://etax.shenzhen.chinatax.gov.cn/",
+      "description": "深圳电子税务局"
+    },
+    "amap": {
+      "name": "高德地图",
+      "url": "https://ditu.amap.com/",
+      "description": "查看房源位置和周边"
+    }
+  },
+  "important_landmarks": {
+    "shenzhen_north_station": {
+      "name": "深圳北站",
+      "address": "深圳市龙华区民治街道",
+      "coordinates": "114.0325,22.6107"
+    },
+    "baoan_airport": {
+      "name": "宝安国际机场",
+      "address": "深圳市宝安区航站四路",
+      "coordinates": "113.8109,22.6393"
+    },
+    "futian_station": {
+      "name": "福田站",
+      "address": "深圳市福田区深南大道",
+      "coordinates": "114.0555,22.5132"
+    },
+    "shenzhen_station": {
+      "name": "深圳站",
+      "address": "深圳市罗湖区建设路",
+      "coordinates": "114.1163,22.5475"
+    }
+  }
+}
